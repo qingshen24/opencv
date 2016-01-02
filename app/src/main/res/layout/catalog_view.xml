@@ -53,6 +53,9 @@
             android:layout_weight="0.04"
             android:text="@string/SDelete"
             />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
 
     </LinearLayout>
 
